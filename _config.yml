@@ -12,7 +12,7 @@ author: Show-Chat
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://showchat.tk'
+url: 'https://showchat.ml'
 baseurl: ''
 
 # This URL points directly to the images directory making
@@ -21,10 +21,10 @@ baseurl: ''
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://showchat.tk/img/'
+urlimg: 'https://showchat.ml/img/'
 
 # Chat Image
-chatimg: 'https://showchat.tk/assets/chat/'
+chatimg: 'https://showchat.ml/assets/chat/'
 
 # WordPress RomaniaChat Image
 wp-romaniachat-img: 'https://ps.w.org/wp-romaniachat/assets/'
