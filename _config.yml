@@ -81,3 +81,5 @@ baiatrau: '<p><a href="https://baiatrau.tk/">BaiatRau</a></p>'
 
 # Short bio or description (displayed in the header)
 description: ShowChat Romania intra pe cea mai mare comunitate webchat din Romania
+
+staticman_url: https://api.staticman.ml/v3/entry/github/kiwichat/showchat/master/comments
