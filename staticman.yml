@@ -51,3 +51,8 @@ comments:
   # Names of required fields. If any of these isn't in the request or is empty,
   # an error will be thrown.
   requiredFields: ["name", "message"]
+
+  reCaptcha:
+    enabled: true
+    siteKey: "6LdyENkgAAAAABTTG6OhVFmnX_xR1jK6R11xkygl"
+    secret: "JsbcYGv68mo7I8VyOvKnzqfPR/1Unn0kwraPKJFHcC2eLz04XE6Zhd7iaTwFv5P2niE1Re+lBsv33f1unMHcU9x/XwKDhINxwG3yJNZfADEYG/k4DErF6LkghORXDL8pUErIb+AwvfMjbNaXIGExQW5cVfRQ18bQi2VBqSdye10="
