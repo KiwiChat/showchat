@@ -7,6 +7,13 @@
   <textarea id="message-{{ include.parent_id }}" class="comment-message" name="fields[message]" placeholder="Comment (markdown accepted)" required></textarea>
   <div class="comment-bottom">
     <input class="comment-name" name="fields[name]" type="text" placeholder="Name" required>
+    
+    
+   <input type="hidden" name="options[reCaptcha][siteKey]" value="6LdyENkgAAAAABTTG6OhVFmnX_xR1jK6R11xkygl">
+    <input type="hidden" name="options[reCaptcha][secret]" value="JsbcYGv68mo7I8VyOvKnzqfPR/1Unn0kwraPKJFHcC2eLz04XE6Zhd7iaTwFv5P2niE1Re+lBsv33f1unMHcU9x/XwKDhINxwG3yJNZfADEYG/k4DErF6LkghORXDL8pUErIb+AwvfMjbNaXIGExQW5cVfRQ18bQi2VBqSdye10=">
+
+    <div class="g-recaptcha" data-sitekey="6LdyENkgAAAAABTTG6OhVFmnX_xR1jK6R11xkygl"></div>
+    
     <button class="comment-submit" type="submit">SEND</button>
   </div>  
 </form>
